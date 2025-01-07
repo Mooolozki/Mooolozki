@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mona Luo
 - 👀 I’m a designer who codes
 - 😄 Pronouns: she/hers
-- ⚡ Fun fact: I built interactive art installation with Arduino
+- ⚡ Fun fact: I built interactive art installations with Arduino
